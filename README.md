@@ -11,7 +11,7 @@ test.csv: Dataset de prueba que contiene información similar al de entrenamient
 gender_submission.csv: Un archivo de ejemplo que muestra el formato esperado para las predicciones en el conjunto de prueba.
 
 ## Resultados
-El modelo desarrollado alcanza una precisión (accuracy) de 0.6531 en el conjunto de prueba, lo que indica que aproximadamente el 65% de las predicciones fueron correctas. Además, el modelo tiene una sensibilidad de 0.5329, lo que significa que es capaz de identificar correctamente al 53% de los pasajeros que realmente sobrevivieron. Por otro lado, la especificidad es de 0.7218, reflejando que el modelo identifica correctamente al 72% de los pasajeros que no sobrevivieron. Estos resultados sugieren que el modelo es moderadamente preciso, aunque tiene margen para mejorar en la detección de pasajeros que sobrevivieron.
+El modelo desarrollado alcanza un accuracy de 0.6531 en el conjunto de prueba, lo que indica que aproximadamente el 65% de las predicciones fueron correctas. Además, el modelo tiene una sensibilidad de 0.5329, lo que significa que es capaz de identificar correctamente al 53% de los pasajeros que realmente sobrevivieron. Por otro lado, la especificidad fue de 0.7218, reflejando que el modelo identifica correctamente al 72% de los pasajeros que no sobrevivieron. 
 
 ## Contribuciones
 Las contribuciones son bienvenidas. Si deseas mejorar este proyecto o añadir nuevas funcionalidades, siéntete libre de abrir un issue o enviar un pull request.
